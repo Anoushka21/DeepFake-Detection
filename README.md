@@ -1,4 +1,4 @@
-# DeepFake Detection in Face Images- Final Project Computer Vision (Fall 2023)
+# DeepFake Detection in Face Images
 
 **Objective:**
 Use Convolutional Neural Networks to detect deepfakes in Face Images
@@ -24,8 +24,6 @@ sbatch slurm_script.batch
 ```
 
 ## Notes
-
-This project was part of the coursework for the Computer Vision (Fall 2023) course at NYU.
 Contributors:
 * Anoushka Gupta (ag8733@nyu.edu)
 * Arunima Mitra (am13018@nyu.edu)
