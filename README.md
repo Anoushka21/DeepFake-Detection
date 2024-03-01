@@ -24,7 +24,4 @@ sbatch slurm_script.batch
 ```
 
 ## Notes
-Contributors:
-* Anoushka Gupta (ag8733@nyu.edu)
-* Arunima Mitra (am13018@nyu.edu)
-* Divyanshi Parashar (dp3635@nyu.edu)
+Done as part of the Computer Vision course by Prof. Rob Fergus @NYU Courant Fall 23
